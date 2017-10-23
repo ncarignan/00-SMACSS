@@ -23,6 +23,9 @@
   font-size: .65em;
   text-transform: uppercase;
 }
+#facepic {
+  width: 90px;
+}
 
 .print, .date {
   color: #a9a8a5;
